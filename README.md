@@ -11,7 +11,10 @@ Virtual World is made with React, Styled Components and deployed to Firebase hos
 
 ### Description
 
-This a social media app where users can post and comment on posts. No authentication required, demo, and all the posts are saved in Firebase Database. The images are stored in Firebase Storage. The app responsive and I will add more to it later but right now I am forcing on other projects.
+Share images and stories online in real-time. All data are being fetched and stored in Firebase. 
+Built with hooks and functional components
+
+
 
 ### Built With
 
