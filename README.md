@@ -1,3 +1,8 @@
+### Links
+
+[Live](https://virtual-world-3f2c7.web.app) \
+[Source Code](https://github.com/FyerBall/Virtual-World)
+
 # Virtual World
 
 ### Overview
@@ -27,7 +32,4 @@ This a social media app where users can post and comment on posts. No authentica
 [Email me](mailto:meshari@meshariabid.com?subject=[GitHub]) \
 [Portfolio](https://meshariabid.com/)
 
-### Links
 
-[Live](https://virtual-world-3f2c7.web.app) \
-[Source Code](https://github.com/FyerBall/Virtual-World)
